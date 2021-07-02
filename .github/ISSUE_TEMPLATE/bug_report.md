@@ -7,23 +7,26 @@ assignees: ''
 
 ---
 
-**Describe the bug**
+**Describe the issue**
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**Steps to Reproduce**
+Steps to reproduce the behavior, including any setup required:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**Actual Result**
+A clear and concise description of the error or issue that occurs following the steps to reproduce.
+
+**Expected Result**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop/Device (please complete the following information):**
+**Desktop/Device information (please complete the following information if applicable):**
  - Device: [e.g. PC, Mac, iPhone, Samsung] 
  - OS: [e.g. Windows, macOS, iOS, Android]
  - Version [e.g. 10, Bug Sur, Oreo]
