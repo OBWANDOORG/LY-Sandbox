@@ -1,8 +1,10 @@
 ---
-name: "Create New Agenda"
-about: "Use this template to create a new meeting agenda."
-title: "Proposed SIG-'name' meeting agenda for MMMM-DD-YY"
-labels: mtg-agenda
+name: Create New Agenda
+about: Use this template to create a new meeting agenda.
+title: Proposed SIG-'name' meeting agenda for MMMM-DD-YY
+labels: ''
+assignees: ''
+
 ---
 
 ## Meeting Details
@@ -33,4 +35,3 @@ The [<SIG> Meetings](https://github.com/o3de/foundation/tree/master/sigs) repo c
 ## Open Discussion Items
 
 List any additional items below!
-

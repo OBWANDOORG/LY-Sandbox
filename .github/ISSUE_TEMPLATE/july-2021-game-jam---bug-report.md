@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: Bug Report
-labels: kind/bug, needs-sig, needs-triage
+name: July 2021 Game Jam - Bug report
+about: Use this template to log bugs found during the July 2021 Game Jam
+title: ''
+labels: game-jam, needs-sig, needs-triage
 assignees: ''
 
 ---
