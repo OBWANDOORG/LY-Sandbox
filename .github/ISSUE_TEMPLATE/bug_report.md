@@ -1,23 +1,28 @@
-**Describe the issue**
+---
+name: Bug report
+about: Create a report to help us improve
+title: 'Bug Report'
+labels: 'needs-triage,needs-sig,kind/bug'
+
+---
+
+**Describe the bug**
 A clear and concise description of what the bug is.
 
-**Steps to Reproduce**
-Steps to reproduce the behavior, including any setup required:
+**To Reproduce**
+Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Actual Result**
-A clear and concise description of the error or issue that occurs following the steps to reproduce.
-
-**Expected Result**
+**Expected behavior**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Desktop/Device information (please complete the following information if applicable):**
+**Desktop/Device (please complete the following information):**
  - Device: [e.g. PC, Mac, iPhone, Samsung] 
  - OS: [e.g. Windows, macOS, iOS, Android]
  - Version [e.g. 10, Bug Sur, Oreo]
