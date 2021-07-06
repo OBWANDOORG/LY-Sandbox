@@ -2,7 +2,7 @@
 name: Automated Review Bug report
 about: Create a report when a failure occurs in main branch
 title: ''
-labels: 'Automated_Review'
+labels: 'kind/automation,kind/bug,needs-triage'
 assignees: ''
 
 ---
